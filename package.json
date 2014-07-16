@@ -1,0 +1,22 @@
+{
+  "name": "gravelly",
+  "version": "0.0.0",
+  "description": "Generates SVG paths",
+  "main": "gravelly.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/akx/gravelly.git"
+  },
+  "keywords": [
+    "svg"
+  ],
+  "author": "Aarni Koskela",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akx/gravelly/issues"
+  },
+  "homepage": "https://github.com/akx/gravelly"
+}
